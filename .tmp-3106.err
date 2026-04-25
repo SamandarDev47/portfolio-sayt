@@ -1,0 +1,11 @@
+⨯ Error [PrismaClientKnownRequestError]: 
+Invalid `prisma.user.findFirst()` invocation:
+
+
+The table `main.User` does not exist in the current database.
+    at async s (C:\Users\saman\OneDrive\Desktop\portfolio sayt\devfolio-platform\.next\server\chunks\ssr\[root-of-the-server]__0r2co2p._.js:3:4642) {
+  code: 'P2021',
+  meta: { modelName: 'User', table: 'main.User' },
+  clientVersion: '6.19.0',
+  digest: '3982573240'
+}

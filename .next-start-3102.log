@@ -1,0 +1,8 @@
+
+> devfolio-platform@0.1.0 start
+> next start --hostname 0.0.0.0 --port 3102
+
+▲ Next.js 16.2.4
+- Local:         http://localhost:3102
+- Network:       http://0.0.0.0:3102
+✓ Ready in 282ms

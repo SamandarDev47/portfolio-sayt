@@ -1,0 +1,9 @@
+▲ Next.js 16.2.4
+- Local:         http://localhost:3106
+- Network:       http://0.0.0.0:3106
+✓ Ready in 190ms
+prisma:error 
+Invalid `prisma.user.findFirst()` invocation:
+
+
+The table `main.User` does not exist in the current database.
